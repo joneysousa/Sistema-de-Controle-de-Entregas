@@ -1,0 +1,12 @@
+-Fazer a prototipação dos 5 controles.
+-Criar o cadastro do 5 controles.
+-Gerenciar o STATUS dos perdidos.
+-Especificar a linguagem de implementação: php, C# ou JAVA.
+-Interface WEB.
+-Pesquisa dos equipamentos necessários, custos, serviços de provedor de internet.
+-Especificar os recursos utilizados pelos membros integrantes do grupo,
+	para aquisição e gestão deste conhecimento, como também
+	o capital interlectual de cada um.
+-Requisitos visuais para tablets, smartphones, mobile.
+-Atentar para a especificação dos relacionamentos entre as entidades.
+-Fazer a especificação de cada evento (enter, tab, ou outra tecla) ou botão acionado.
