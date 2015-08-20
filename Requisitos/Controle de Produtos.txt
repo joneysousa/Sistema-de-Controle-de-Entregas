@@ -1,0 +1,4 @@
+nome-do-produto;
+descricao;
+tamanho;
+custo;

@@ -1,0 +1,10 @@
+nome-do-cliente;
+tel-de-contato;
+endereco;
+ponto-de-referencia;
+data-de-nascimento;
+	Com base nestes dados, no momento do pedido,
+	o atendente realizará uma pesquisa pelo número
+	do telefone do cliente, caso esteja cadastrado,
+	os seus dados deverão se exibidos caso contrario,
+	deverá cadastrá - lo.

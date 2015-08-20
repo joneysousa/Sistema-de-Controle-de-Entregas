@@ -1,0 +1,9 @@
+nome-do-entregador;
+CPF;
+RG;
+celular;
+empresa-vinculada;
+	O serviço é terceirizado, onde os motoboys são
+	vinculados a uma empresa e recebem apenas pelas
+	entregas realizadas. Também será necessario que
+	a empresa esteja cadastrada no sistema.

@@ -1,0 +1,22 @@
+nome-do-cliente;
+nome-do-produto;
+quantidade;
+tamanho;
+etc;
+	Para gerenciar os pedidos realizados pelo cliente,
+	o atendente deverá informar no registro do pedido.
+	Automaticamente o sistema deverá calcular o calor
+	total do pedido, resultado no valor total, mais a
+	taxa de entrega. Caso necessário, é registrado no
+	sistema o troco.
+	Os pedidos serão atendidos com base nas ligações
+	recebidas e o atendimento ao pedido deverá respeitar
+	a ordem das ligações.
+	Os pedidos ficarão nos seguintes status:
+	*Pendente: quando o atendente dá entrada no pedido.
+	*Em trânsito: quando o motoboy retira o pedido para entrega.
+	*Cancelado: quando surge alguma irregularidade e o pedido
+		não pode ser entregue.
+	*Entregue: quando o motoboy conclui a entrega e apresenta o pagamento.
+	*Semanalmente, deverá gerar pelo sistema, um relatório das
+	'Entregas Realizadas' para o pagamento dos entregadores.
