@@ -45,4 +45,21 @@
 		<nature>org.jboss.tools.cdi.core.cdinature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/resources/css</name>
+			<type>2</type>
+			<location>C:/Users/JW/Downloads/bootstrap/bootstrap/css</location>
+		</link>
+		<link>
+			<name>WebContent/resources/img</name>
+			<type>2</type>
+			<location>C:/Users/JW/Downloads/bootstrap/bootstrap/img</location>
+		</link>
+		<link>
+			<name>WebContent/resources/js</name>
+			<type>2</type>
+			<location>C:/Users/JW/Downloads/bootstrap/bootstrap/js</location>
+		</link>
+	</linkedResources>
 </projectDescription>

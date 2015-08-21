@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ui="http://java.sun.com/jsf/facelets" xmlns:h="http://java.sun.com/jsf/html">
+ 
+<h:head>
+    <title><ui:insert name="tituloPagina" /></title>
+    <h:outputStylesheet library="css" name="bootstrap.css"/>
+    <h:outputScript library="js" name="bootstrap.js"/>
+</h:head>
+ 
+<h:body>
+    <div class="navbar-header">
+        <ui:insert name="divTopo">
+            <ui:include src="topo.xhtml" />
+        </ui:insert>
+    </div>
+ 
+    <ul class="nav navbar-nav">
+        <ui:insert name="menuEsquerda">
+            <ui:include src="esquerda.xhtml" />
+        </ui:insert>
+    </ul>
+ 
+    <div class="container">
+        <ui:insert name="conteudo" />
+    </div>
+</h:body>
+</html>
